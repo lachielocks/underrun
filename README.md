@@ -1,9 +1,9 @@
-# UNDERRUN - A JS13k GAME
+# UNDERRUN
 
-My entry for the 2018 [js13k](https://js13kgames.com/) competition.
+A sci-fi shooter originally created for the 2018 [js13k](https://js13kgames.com/) competition.
 
-Play here: https://phoboslab.org/underrun/
+Open `index.html` in a browser, or use `index-debug.html` for unminified sources.
 
-MIT Licensed
+MIT Licensed — see [LICENSE.md](LICENSE.md).
 
-Please be aware that this projects makes use of the Sonant-X library (albeit heavily modified) which is published under the zlib license.
+This project uses a heavily modified [Sonant-X](https://github.com/nicolasvanhoren/sonant-x) audio library (zlib license).

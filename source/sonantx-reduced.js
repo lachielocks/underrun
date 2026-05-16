@@ -1,5 +1,4 @@
-// Gutted for js13k and modified to use Float32 buffers directly 
-// ~ Dominic Szablewski, phoboslab.org, Sep 2018
+// Gutted for js13k and modified to use Float32 buffers directly
 
 //
 // Sonant-X
